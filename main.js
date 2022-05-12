@@ -75,6 +75,7 @@ ScrollReveal({
   #services header,
   #services .card,
   #portifolio,
+  #portifolio header,
   #portifolio teaser,
   #about, 
   #about header, 

@@ -279,7 +279,6 @@ body.menu-expanded .menu {
 
   filter: brightness(1.3);
 }
-
 body.menu-expanded .logo,
 body.menu-expanded button {
   position: relative;
@@ -399,6 +398,7 @@ body.menu-expanded button path {
 
 #portifolio .teaser h4 {
   color: var(--primary-color);
+  margin-top: 2rem;
 }
 
 #portifolio .teaser p {
